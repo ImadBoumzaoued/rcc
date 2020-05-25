@@ -68,6 +68,9 @@ You can use [create-react-app](https://create-react-app.dev/).
 
 We also prefer the use of minimal dependencies.
 
+## API Link
+https://pokeapi.co/
+
 ## Other Notes
 
 Please send any other code or projects that you're proud of and would like to share with us.
