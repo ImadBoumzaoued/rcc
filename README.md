@@ -64,7 +64,7 @@ Display a list of pokemons belonging to the selected type
 You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/).
 We prefer it if you did not use any third party CSS frameworks.
 
-You can use [ViteJS]([https://create-react-app.dev/](https://vitejs.dev/).
+You can use [ViteJS]([https://create-react-app.dev/](https://vitejs.dev).
 
 We also prefer the use of minimal dependencies.
 
